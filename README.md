@@ -67,13 +67,13 @@ Project will be available on
 # FastAPI Interactive API Documentation:
 FastAPI uses Swagger UI to provide automatic interactive API documentation. To access it, navigate to http://localhost:8000/docs and you will see a screen with all your endpoints, methods, and schemas.
 ##### GET Request:
-![getrequest](imgs/get.png)
+![getrequest](imgs/get.PNG)
 ##### POST Request:
-![postrequest](imgs/post.png)
+![postrequest](imgs/post.PNG)
 ##### DELETE Request:
-![deleterequest](imgs/delete.png)
+![deleterequest](imgs/delete.PNG)
 ##### UPDATE Request:
-![updatetrequest](imgs/update.png)
+![updatetrequest](imgs/update.PNG)
 
 # Troubleshooting
 If you are facing any problems, feel free to open an issue or contact me on `rimmelasghar4@gmail.com` 
