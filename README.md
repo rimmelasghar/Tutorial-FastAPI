@@ -1,3 +1,4 @@
+<img src="https://staticg.sportskeeda.com/editor/2022/12/12ba3-16703270774402-1920.jpg" alt="Girl in a jacket" width="1000" height="250">
 # 🔥 FastAPI Tutorial
 In this tutorial, we will be building a Simple CRUD application with FastAPI. The application will be able to:
 
