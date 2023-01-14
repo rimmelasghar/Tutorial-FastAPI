@@ -82,4 +82,5 @@ If you are facing any problems, feel free to open an issue or contact me on `rim
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 <br>
+<br>
 Code by Rimmel with ❤
